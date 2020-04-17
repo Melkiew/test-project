@@ -1,0 +1,20 @@
+<usersdata>
+  <userdata>
+    <id>677821</id>
+    <firstname>piter</firstname>
+    <lastname>fut</lastname>
+    <city>st paul</city>
+    <state>mn</state>
+    <address>ABC</address>
+    <email>gg@gmail.com</email>
+  </userdata>
+  <userdata>
+    <id>6798</id>
+    <firstname>sol</firstname>
+    <lastname>sht</lastname>
+    <city>st paul</city>
+    <state>mn</state>
+    <address>ADC</address>
+    <email>abg@gmail.com</email>
+  </userdata>
+</usersdata>
